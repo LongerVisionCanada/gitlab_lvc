@@ -1,0 +1,28 @@
+---
+title: "Stupid Me Finally Figured Out Gitlab Hosting"
+date: 2020-05-11T23:58:59-07:00
+categories:
+  - Personal Blog
+tags:
+  - Jekyll
+  - standard
+---
+
+
+
+
+After a 2-day investigation, I finally figured out how to host static website on [Gitlab] for free. Before this happens, I've been thinking why [Gitlab] is so inconvenient? At least, not as convenient as [Github] or [Bitbucket]?
+
+However, after I finally and successfully configured my [Gitlab] website [https://longervision.gitlab.io/](https://longervision.gitlab.io/), I've got to say: [Gitlab] is actually **fabulous**.
+
+A person really needs to know what he is capable to do, and what he is not. I am **NOBODY**. That is true...
+
+In the end of this **FIRST** blog, it's my **FIRST** time I start to use
+- [Jekyll](https://jekyllrb.com/) static website, coded in [Ruby]
+- [Minima](https://github.com/jekyll/minima) theme (I may try some other fancy ones later)
+- [Ruby] language
+
+[Ruby]: https://www.ruby-lang.org/
+[Gitlab]:   https://gitlab.com/
+[Github]: https://github.com/
+[Bitbucket]: https://bitbucket.org/
